@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name":"AnsAgain",
+    "version":"0.0.1",
+    "description": "Save answers in a form and fill them in later",
+    
+    "browser_action":{
+        "default_title":"AnsAgain",
+        "default_popup":"index.html"
+    },
+
+    "web_accessible_resources":["index.html"]
+}
